@@ -5,3 +5,5 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 ## O inicio da jornada em Cyber Security :baby:
 
 - [PowerShell parte 1](teste)
+
+![](https://i.imgur.com/waxVImv.png)

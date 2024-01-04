@@ -7,3 +7,4 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 - [PowerShell parte 1]()
 
 ![](https://i.imgur.com/waxVImv.png)
+ 

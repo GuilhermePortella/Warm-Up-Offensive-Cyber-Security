@@ -8,5 +8,3 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 
 
 ![](https://i.imgur.com/waxVImv.png)
-
-![](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/blob/main/assets/waxVImv.png)

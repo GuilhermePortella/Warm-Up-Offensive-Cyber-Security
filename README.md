@@ -4,7 +4,7 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 
 ## O inicio da jornada em Cyber Security :baby:
 
-- [PowerShell parte 1](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/blob/main/Part1-Scripts%20e%20PowerShell/PowerShell.md)
+- [PowerShell parte 1](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)
 
 
 ![](https://i.imgur.com/waxVImv.png)

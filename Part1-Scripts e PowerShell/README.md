@@ -1,20 +1,36 @@
 ## PowerShell parte 1
 
-resume:
+### resume:
 
-O Powershell é uma ferramenta que comumente é utilizado para automatizar tarefas, gerenciar sistemas e maquinas e muito mais.
-É um shell de linha de comando e usa uma linguagem de script desenvolvida pela microsoft basedo em .NET Framework e tem uma sintaxe semelhante ao Visual Basic.
-
-Windows, Linux e Mac
-
-o que é a ferramenta.
-
-Onde posso usar
+    O Powershell é uma linguagem de script e ferramenta que comumente é utilizado para automatizar tarefas, gerenciar sistemas e maquinas especialmente utilizado em sitesmas windows.
+    É um shell de linha de comando e usa uma linguagem de script desenvolvida pela microsoft basedo em .NET Framework e tem uma sintaxe semelhante ao Visual Basic.
 
 Por que usar 
+### Pontos positivos :
 
-Pontos positivos
+O powershell permite acessar e gerenciar recursos do sitema, como arquivos, registros, serviços processos e muito mais.
 
-Exemplos de uso
+Automação de tarefas: 
 
-Crie o seu script 
+
+Extensibilidade: 
+
+
+Integração com tecnologias:
+
+
+Interface, linha de comando e ambiente script:
+
+
+### Exemplos de uso
+Análise de dados: 
+Administração de nuvem:
+Scripting de infraestrutura:
+Gerenciamento de servidores:
+Automação de tarefas administrativas:
+
+
+
+### Crie o seu script 
+
+Windows, Linux e Mac

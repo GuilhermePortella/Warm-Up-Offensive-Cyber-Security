@@ -21,13 +21,20 @@ Interface, linha de comando e ambiente script:
 
 
 ### Exemplos de uso
-Análise de dados: 
-Administração de nuvem:
-Scripting de infraestrutura:
-Gerenciamento de servidores:
-Automação de tarefas administrativas:
+ - Análise de dados: 
+    - Usando o  Powershell é possivel e permitido que você processe e manipule grandes conjuntos de dados de forma eficiente
 
-
+ - Administração de nuvem:
+    - Com a integração do PowerShell com serviços em nuvem, como o Azure, você pode gerenciar recursos em nuvem, criar e implantar máquinas virtuais, configurar redes,
+ 
+ - Scripting de infraestrutura:
+    - É usado para criar scripts que automatizam a implantação e configuração de infraestrutura de TI, como servidores, redes, armazenamento e virtualização.
+ 
+ - Gerenciamento de servidores:
+    É uma ferramenta essencial para gerenciar servidores Windows, permitindo que você monitore e gerencie serviços, processos, eventos, logs e outros aspectos do sistema operacional.
+ 
+ - Automação de tarefas administrativas:
+    - Amplamente utilizado para automatizar tarefas administrativas em ambientes Windows, como criação de usuários, configuração de servidores, implantação de aplicativos, entre outros
 
 ### Crie o seu script 
 

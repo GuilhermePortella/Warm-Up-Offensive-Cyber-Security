@@ -6,6 +6,12 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 
 - [Shell parte 1](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)
 - [C](https://github.com/GuilhermePortella/Mastering_C_Language).
+- []()
+- []()
+- []()
+- []()
+- []()
+
 
 ## Conteúdos de Cybersecurity que pode ser interessante para você :key:
 
@@ -20,6 +26,8 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 ![](https://i.imgur.com/waxVImv.png)
 
 
-
+- ### Existe uma forma segura de armazenar senhas no meu banco de dados ? 
+    - [Aqui]() 
+você pode ver como fazer isso, mesmo em projetos pequenos.
 
 

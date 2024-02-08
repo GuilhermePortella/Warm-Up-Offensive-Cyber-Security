@@ -27,7 +27,7 @@ Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco pri
 
 
 - ### Existe uma forma segura de armazenar senhas no meu banco de dados ? 
-    - [Aqui](Codigos/SegurancaemBancosdeDados/README.md) 
+    - [Aqui](Codigos/SenhaCriptografia/README.md) 
 você pode ver como fazer isso, mesmo em projetos pequenos.
 
 

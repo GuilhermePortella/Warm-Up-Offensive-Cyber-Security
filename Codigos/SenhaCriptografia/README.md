@@ -16,4 +16,9 @@ Um exemplo bem simples de com um sistema pede seus dados é esse:
     Digite uma senha:
 ```
 
-Nesse exemplo as informações são simples e muito básicas, porém pense por um instante site que pedem muito mais informações pessoais, como documentos, endereço e mais dados privados. Se voce ja se cadastrou no site [beecrowd](https://beecrowd.com.br/) voce sabe que para submeter suas resoluções é necessário um cadastro completo, incluindo até informações de tamanho de camiseta, se isso cair em mãos de agentes mal intencionados poderia fazer um grande estrago com seu nome e seus dados.
+Nesse exemplo as informações são simples e muito básicas, porém pense por um instante site que pedem muito mais informações pessoais, como documentos, endereço e mais dados privados. Se voce ja se cadastrou no site [beecrowd](https://beecrowd.com.br/) você sabe que para submeter suas resoluções é necessário um cadastro completo, incluindo até informações de tamanho de camiseta, se isso cair em mãos de agentes mal intencionados poderia fazer um grande estrago com seu nome e seus dados, por esse motivo a equipe do site tem feito e fez um trabalho excepcional na proteção desses dados e do site em forma geral.
+
+### Mas  como eles podem estar protegendo as senhas dos usuarios no banco de dados ?
+
+Depende, brincadeira haha. Existe diversas formas de "esconder" essas senhas no banco de dados, vou falar um pouco de transformar a senha em um Hash: 
+

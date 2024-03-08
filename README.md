@@ -42,6 +42,29 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - []()
 
 
+## Certificaçoes no mundo de CyberSecurity
+### Red Team:
+- Certified Ethical Hacker (CEH)
+- Offensive Security Certified Professional (OSCP)
+- Certified Red Team Operator (CRTO)
+
+### Blue Team:
+- Certified Information Systems Security Professional (CISSP)
+- Certified Information Systems Auditor (CISA)
+- Certified Cloud Security Professional (CCSP)
+
+### Certificações Extremamente Relevantes para o Mercado:
+- CompTIA Security+
+- Certified Network Defender (CND)
+- Certified Security Analyst (CSA)
+
+#### Links de referencia
+- (ISC)²: https://www.isc2.org/
+- EC-Council: https://www.eccouncil.org/
+- Offensive Security: https://www.offensive-security.com/
+- CompTIA: https://www.comptia.org/
+
+
 ## Conteúdos de Cybersecurity que pode ser interessante para você :key:
 
 - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)

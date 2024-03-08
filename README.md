@@ -2,6 +2,14 @@
 Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco principal em operações de Red Team
 
 
+> [!CAUTION]
+> ### Os conteúdos aqui contidos são para fins acadêmicos, seu uso é de total responsabilidade sua e de mais ninguém
+
+> [!WARNING]
+> ### Invasão de sistemas de computação, sites ou redes privadas e constitui em crime passível de prisão.
+
+
+
 ## O inicio da jornada em Cyber Security :baby:
 
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)

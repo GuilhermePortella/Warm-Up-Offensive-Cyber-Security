@@ -7,23 +7,28 @@ Este tutorial não é um guia para atividades ilegais.
 
 Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou comprometer a segurança de outras pessoas.
 
-Se você tiver dúvidas sobre o uso ético das informações, pode me consultar.
+### Se você tiver dúvidas sobre o uso ético das informações, pode me consultar.
 
 
 
 > [!CAUTION]
-> ** Conhecimento é poder, mas com grandes poderes vem grandes responsabilidades!**
->
->A invasão de sistemas é crime! As informações e ferramentas deste tutorial são para estudo e pesquisa somente.
->Seja honesto e ético em suas ações. Use seu conhecimento para o bem e seja um defensor da segurança da informação! ️
->
+> Conhecimento é poder, mas com grandes poderes vem grandes responsabilidades!
 > 
+> ## As informações e ferramentas deste tutorial são para fins acadêmicos apenas.
+>
+> A invasão de sistemas é crime! As informações e ferramentas deste tutorial são para estudo e pesquisa somente.
+> Seja honesto e ético em suas ações. Use seu conhecimento para o bem e seja um defensor da segurança da informação! ️
+>
 > ## Reportamos atividades ilícitas às autoridades.
 
 
 > [!WARNING]
-> ### Invasão de sistemas de computação, sites ou redes privadas e constitui em crime passível de prisão.
-
+> ### A invasão de sistemas, sites ou redes privadas é crime e pode te levar à prisão!
+> A pena para invasão de sistemas pode chegar a 4 anos de prisão.
+> Seja honesto e ético em suas ações.
+> Use seu conhecimento para proteger, não para atacar.
+>
+> ## Juntos, construiremos um mundo digital mais seguro!
 
 
 ## O inicio da jornada em Cyber Security :baby:

@@ -1,9 +1,25 @@
 # WarmUp: Offensive Cyber Security
 Aqui vou deixar conteúdos e trilhas de estudo sobre Cyber Security com foco principal em operações de Red Team
 
+⚠️ Alerta ⚠️
+
+Este tutorial não é um guia para atividades ilegais.
+
+Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou comprometer a segurança de outras pessoas.
+
+Se você tiver dúvidas sobre o uso ético das informações, pode me consultar.
+
+
 
 > [!CAUTION]
-> ### Os conteúdos aqui contidos são para fins acadêmicos, seu uso é de total responsabilidade sua e de mais ninguém
+> ** Conhecimento é poder, mas com grandes poderes vem grandes responsabilidades!**
+>
+>A invasão de sistemas é crime! As informações e ferramentas deste tutorial são para estudo e pesquisa somente.
+>Seja honesto e ético em suas ações. Use seu conhecimento para o bem e seja um defensor da segurança da informação! ️
+>
+> 
+> ## Reportamos atividades ilícitas às autoridades.
+
 
 > [!WARNING]
 > ### Invasão de sistemas de computação, sites ou redes privadas e constitui em crime passível de prisão.

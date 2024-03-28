@@ -14,7 +14,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 > [!CAUTION]
 > Conhecimento é poder, mas com grandes poderes vem grandes responsabilidades!
 > 
-> ## As informações e ferramentas deste tutorial são para fins acadêmicos apenas.
+> ## As informações e ferramentas deste tutorial são para fins acadêmicos, apenas.
 >
 > A invasão de sistemas é crime! As informações e ferramentas deste tutorial são para estudo e pesquisa somente.
 > Seja honesto e ético em suas ações. Use seu conhecimento para o bem e seja um defensor da segurança da informação! ️
@@ -31,7 +31,9 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 > ## Juntos, construiremos um mundo digital mais seguro!
 
 
-## O inicio da jornada em Cyber Security :baby:
+# O inicio da jornada em Cyber Security :baby:
+
+## Conteúdo Geral: 
 
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)
 - [C](https://github.com/GuilhermePortella/Mastering_C_Language)
@@ -40,6 +42,14 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - []()
 - []()
 - []()
+
+# CTFs
+
+- [HackTheBox](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [VulnHub](https://www.vulnhub.com/)
+- [picoCTF](https://picoctf.org/)
+- [SANS Holiday Hack Challenge 2023](https://www.sans.org/mlp/holiday-hack-challenge-2023/?utm_medium=Referral&utm_source=SANS&utm_content=Vanity%20URL%20-%20%20holidayhack&utm_campaign=Holiday%20Hack%20Challenge%202023)
 
 
 ## Certificaçoes no mundo de CyberSecurity

@@ -52,6 +52,14 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - [SANS Holiday Hack Challenge 2023](https://www.sans.org/mlp/holiday-hack-challenge-2023/?utm_medium=Referral&utm_source=SANS&utm_content=Vanity%20URL%20-%20%20holidayhack&utm_campaign=Holiday%20Hack%20Challenge%202023)
 
 
+## Conexões
+
+<h4> 
+
+   * Tipos de conexão e suas funções    
+<h4>
+
+
 ## Certificaçoes no mundo de CyberSecurity
 ### Red Team:
 - Certified Ethical Hacker (CEH)

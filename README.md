@@ -96,6 +96,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 
 ![](https://i.imgur.com/waxVImv.png)
 
+# Conteúdos Gerais e Curiosidades
 
 - ### Existe uma forma segura de armazenar senhas no meu banco de dados ? 
     - [Aqui](Codigos/SenhaCriptografia/README.md) 

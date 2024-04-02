@@ -78,6 +78,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - CompTIA Linux+
 - CCNA
 - CompTIA Network+
+-CompTIA A+
 
 #### Links de referencia
 - (ISC)²: https://www.isc2.org/

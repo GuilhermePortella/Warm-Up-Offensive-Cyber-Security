@@ -52,7 +52,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - [SANS Holiday Hack Challenge 2023](https://www.sans.org/mlp/holiday-hack-challenge-2023/?utm_medium=Referral&utm_source=SANS&utm_content=Vanity%20URL%20-%20%20holidayhack&utm_campaign=Holiday%20Hack%20Challenge%202023)
 
 
-## Redes e Protocolos
+## Conhecimento de redes
 
 <h4> 
 
@@ -75,6 +75,9 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - CompTIA Security+
 - Certified Network Defender (CND)
 - Certified Security Analyst (CSA)
+- CompTIA Linux+
+- CCNA
+- CompTIA Network+
 
 #### Links de referencia
 - (ISC)²: https://www.isc2.org/

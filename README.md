@@ -59,7 +59,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
    * Tipos de conexão e suas funções    
 <h4>
 
-- <h3> Progremas e ferramentas</h3>
+- <h3> Programas e Ferramentas</h3>
 
     - Wireshark
 

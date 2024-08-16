@@ -74,7 +74,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - Certified Information Systems Auditor (CISA)
 - Certified Cloud Security Professional (CCSP)
 
-### Certificações Extremamente Relevantes para o Mercado:
+### Certificações Relevantes para o Mercado:
 - CompTIA Security+
 - Certified Network Defender (CND)
 - Certified Security Analyst (CSA)

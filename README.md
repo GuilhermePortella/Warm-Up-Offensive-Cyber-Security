@@ -37,7 +37,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)
 - [C](https://github.com/GuilhermePortella/Mastering_C_Language)
-- []()
+- [ISO 27002](https://www.normas.com.br/autorizar/visualizacao-nbr/21529/identificar/visitante)
 - []()
 - []()
 - []()

@@ -105,6 +105,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - [Python bcrypt](https://zetcode.com/python/bcrypt/)
 - [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
 - [Cyber Security Expert](https://roadmap.sh/cyber-security)
+- [hackingnaweb](https://hackingnaweb.com/)
 
 ![](https://i.imgur.com/waxVImv.png)
 

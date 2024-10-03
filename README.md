@@ -95,6 +95,11 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - CompTIA: https://www.comptia.org/
 
 
+## Bug Bounty
+
+- [hackerone](https://hackerone.com/opportunities/all)
+
+
 ## Conteúdos de Cybersecurity que pode ser interessante para você :key:
 
 - [Pentest](https://xtech.com.br/pentest-ou-teste-de-penetracao-o-que-e/)
@@ -106,6 +111,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 - [How to boot, shut down, and suspend your system](https://www.redhat.com/sysadmin/linux-boot-shutdown-systemd)
 - [Cyber Security Expert](https://roadmap.sh/cyber-security)
 - [hackingnaweb](https://hackingnaweb.com/)
+- [MOVEit Breach Shows Us SQL Injections Are Still Our Achilles' Heel](https://www.darkreading.com/cyber-risk/moveit-was-a-sql-injection-accident-waiting-to-happen)
 
 ![](https://i.imgur.com/waxVImv.png)
 

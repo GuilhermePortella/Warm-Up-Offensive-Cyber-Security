@@ -63,6 +63,7 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 
 ### Programas e Ferramentas
   - Wireshark
+  - [tryhackme plataforma para aprender hacking na pratica em ambientes controlados](https://tryhackme.com/)
 
 ### Pentest em Redes
 

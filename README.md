@@ -33,6 +33,18 @@ Não utilize as técnicas e ferramentas aqui ensinadas para invadir sistemas ou 
 
 # O inicio da jornada em Cyber Security :baby:
 
+## Habilidades Fundamentais em Cyber Security e em TI
+
+Os fundamentos de TI possuem forte ligação com conhecimentos de segurança cibernética e cobrem uma série de tópicos técnicos de TI que podem ser importantes para a realização de um trabalho eficaz na segurança de sistemas e informações. 
+Eles incluem um bom conhecimento sobre hardware e software de computador, conceitos de rede e sistemas operacionais (especialmente Windows e Linux). 
+É importante estar confortável com programação em pelo menos uma linguagem de programação, como Python, Java ou linguagens mais tradicionais como C e Assembly. 
+A programação pode ser necessária para atividades de automação, escrita de scripts e desenvolvimento de ferramentas personalizadas para identificar ou mitigar ameaças e analise de malwares. 
+O gerenciamento de banco de dados é outro componente essencial dos fundamentos de TI e inclui o uso de SQL para manipular, armazenar e proteger dados e para ataques conhecidos no meio dos times de red team. 
+Além disso, muitas organizações estão mudando para plataformas de computação em nuvem, como AWS, Azure e Google Cloud, então compreender questões relacionadas a segurança e à escalabilidade de infraestruturas em nuvem é uma parte importante dos fundamentos de TI atuais. 
+Também é importante ter uma compreensão básica dos principais conceitos de segurança cibernética, como criptografia, controle de acesso e os vetores de ataque mais comuns. 
+Outros fundamentos técnicos incluem habilidades básicas de solução de problemas, conhecimento prático na interpretação de logs de eventos e uma compreensão básica das tecnologias web (por exemplo, HTTP, APIs, firewalls).
+Dominar esses fundamentos de TI capacita os profissionais a proteger sistemas e a trabalhar eficazmente no domínio da segurança cibernética, identificando e mitigando vulnerabilidades e respondendo a incidentes de segurança.
+
 ## Conteúdo Geral: 
 
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)

@@ -45,6 +45,29 @@ Também é importante ter uma compreensão básica dos principais conceitos de s
 Outros fundamentos técnicos incluem habilidades básicas de solução de problemas, conhecimento prático na interpretação de logs de eventos e uma compreensão básica das tecnologias web (por exemplo, HTTP, APIs, firewalls).
 Dominar esses fundamentos de TI capacita os profissionais a proteger sistemas e a trabalhar eficazmente no domínio da segurança cibernética, identificando e mitigando vulnerabilidades e respondendo a incidentes de segurança.
 
+## Sistemas Operacionais
+
+Sistemas operacionais são softwares dedicados ao gerenciamento do hardware do computador e à criação de uma plataforma para aplicativos. Eles lidam com funções essenciais, incluindo gerenciamento de memória, processamento de tarefas, controle de dispositivos periféricos de entrada e saída, e a criação de arquivos. Exemplos de sistemas operacionais incluem Windows, macOS, Linux e Unix. Cada sistema oferece diferentes recursos, interfaces e facilidades que podem ser adaptadas a necessidade do usuário ou requisitos do sistema e ambiente onde será utilizado, desde a computação para uso casual como para jogos ou uso corporativo ou doméstico, gerenciamento de redes, servidores ou para profissionais de segurança que exigem uma gama de recursos e funções para realizar seus ataques e análises em seu dia a dia.
+
+## Conhecimento de Redes
+
+O conhecimento de rede abrange a compreensão dos princípios, tecnologias e protocolos envolvidos na conexão e gerenciamento de redes. As principais áreas incluem:
+
+- __Protocolos de rede:__ familiaridade com protocolos como TCP/IP, DNS, DHCP e HTTP, que controlam a transmissão de dados e a comunicação entre dispositivos.
+
+- __Topologias de rede:__ conhecimento de arquiteturas de rede, como topologias em estrela, anel, malha e híbrida, que influenciam como os dispositivos são interconectados.
+
+- __Endereçamento IP e sub-redes:__ entenda a alocação de endereços IP, sub-redes e notação CIDR para organizar e gerenciar endereços de rede.
+
+- __Dispositivos de rede:__ conhecimento de roteadores, switches, firewalls e pontos de acesso e suas funções no direcionamento do tráfego, fornecimento de segurança e habilitação da conectividade.
+
+- __Segurança de rede:__ conscientização sobre medidas de segurança como VPNs, firewalls, IDS/IPS e criptografia para proteger dados e impedir acesso não autorizado.
+
+- __Solução de problemas:__ Habilidades em diagnosticar e resolver problemas de rede usando ferramentas como ping, traceroute e analisadores de rede.
+
+Esse conhecimento é essencial para projetar, implementar e manter infraestruturas de rede eficazes e seguras.
+
+
 ## Conteúdo Geral: 
 
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)
@@ -67,7 +90,7 @@ Dominar esses fundamentos de TI capacita os profissionais a proteger sistemas e 
 - [SANS Holiday Hack Challenge 2023](https://www.sans.org/mlp/holiday-hack-challenge-2023/?utm_medium=Referral&utm_source=SANS&utm_content=Vanity%20URL%20-%20%20holidayhack&utm_campaign=Holiday%20Hack%20Challenge%202023)
 
 
-## Conhecimento de Redes
+
 
 ### Tudo que voce precisa saber sobre Redes
 

@@ -154,7 +154,7 @@ Esse conhecimento é essencial para projetar, implementar e manter infraestrutur
 # Conteúdos Gerais e Curiosidades
 
 - ### Existe uma forma segura de armazenar senhas no meu banco de dados ? 
-    - [Aqui](Codigos/SenhaCriptografia/README.md) 
+    - [Aqui](/src/SenhaCriptografia/README.md) 
 você pode ver como fazer isso, mesmo em projetos pequenos.
 
 

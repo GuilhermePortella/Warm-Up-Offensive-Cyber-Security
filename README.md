@@ -68,6 +68,9 @@ O conhecimento de rede abrange a compreensão dos princípios, tecnologias e pro
 Esse conhecimento é essencial para projetar, implementar e manter infraestruturas de rede eficazes e seguras.
 
 
+## Habilidades e conhecimentos de segurança
+
+
 ## Conteúdo Geral: 
 
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)

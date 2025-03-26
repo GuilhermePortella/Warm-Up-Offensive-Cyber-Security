@@ -136,6 +136,9 @@ Esse conhecimento é essencial para projetar, implementar e manter infraestrutur
 
 ## Bug Bounty
 
+### Este guia esta sendo criado para quem deseja entrar no mundo de Bug Bounty sem depender de ferramentas pagas ou cursos caros. Tudo aqui é baseado em dedicação, prática e recursos gratuitos.
+
+
 - [hackerone](https://hackerone.com/opportunities/all)
 
 

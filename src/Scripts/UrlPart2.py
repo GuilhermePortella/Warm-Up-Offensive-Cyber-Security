@@ -1,5 +1,6 @@
 import os
 import javalang
+import requests
 
 def extract_endpoints_from_file(file_path):
     """
@@ -51,6 +52,30 @@ def extract_endpoints_from_directory(directory_path):
 
     return endpoints_by_file
 
+def get_cve_details(cve_id_list, api_key=None):
+    """
+    Consulta detalhes de CVEs usando a API sec1.io.
+    """
+    url = "https://api.sec1.io/rest/foss/cve/v1/cve-details"
+    headers = {
+        "Content-Type": "application/json"
+    }
+    if api_key:
+        headers["sec1-api-key"] = api_key
+
+    payload = {
+        "cveIdList": cve_id_list
+    }
+
+    response = requests.post(url, json=payload, headers=headers)
+    if response.status_code == 200:
+        print("CVE Details Retrieved Successfully")
+        return response.json()
+    else:
+        print(f"Failed to retrieve CVE details. Status code: {response.status_code}")
+        print(response.text)
+        return None
+
 if __name__ == "__main__":
     project_directory = '/path/to/your/java/project'
     
@@ -59,3 +84,10 @@ if __name__ == "__main__":
         print(f"File: {file_path}")
         for endpoint in endpoints_list:
             print(f"  Endpoint: {endpoint['name']}, Parameters: {endpoint['parameters']}")
+
+    # Exemplo de uso da função de consulta de CVEs
+    cve_ids = ["CVE-2021-44228", "CVE-2023-38408"]
+    api_key = "[your-generated-api-key]"  # Substitua pela sua chave, se necessário
+    cve_details = get_cve_details(cve_ids, api_key)
+    if cve_details:
+        print(cve_details)

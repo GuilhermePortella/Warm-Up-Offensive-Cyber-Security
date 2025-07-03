@@ -30,7 +30,7 @@ Hash basicamente é transformar um dado que pode ser reconhecido por exemplo um 
 Uma função de hash criptográfico, conhecida como hash – é um algoritmo matemático que transforma qualquer bloco de dados em uma série de caracteres de comprimento fixo.
 Independentemente do comprimento dos dados de entrada, o mesmo tipo de hash de saída será sempre um valor hash do mesmo comprimento.
 
-![](/assets/Cryptographic_Hash_Function.svg.png)
+![](/assets/Cryptographic_Hash_Function.svg.jpg)
 
 
 ### numeros pseudo aleatórios

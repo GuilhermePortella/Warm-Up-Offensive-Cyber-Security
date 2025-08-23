@@ -154,6 +154,7 @@ Esse conhecimento é essencial para projetar, implementar e manter infraestrutur
 - [Cyber Security Expert](https://roadmap.sh/cyber-security)
 - [hackingnaweb](https://hackingnaweb.com/)
 - [MOVEit Breach Shows Us SQL Injections Are Still Our Achilles' Heel](https://www.darkreading.com/cyber-risk/moveit-was-a-sql-injection-accident-waiting-to-happen)
+- [Kill-Router](https://github.com/msfidelis/Kill-Router-)
 
 ![](https://i.imgur.com/waxVImv.png)
 

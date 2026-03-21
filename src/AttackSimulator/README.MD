@@ -33,12 +33,12 @@ java AttackSimulator <hosts> <porta> <threads> <modo>
 ```
 
 ### Parâmetros
-| Parâmetro | Tipo    | Descrição                               |
-|-----------|---------|----------------------------------------|
+| Parâmetro | Tipo    | Descrição                                    |
+| --------- | ------- | -------------------------------------------- |
 | hosts     | String  | Lista de IPs/domínios, separados por vírgula |
-| porta     | Inteiro | Porta do destino TCP                    |
-| threads   | Inteiro | Quantidade de threads por host          |
-| modo      | String  | `normal` ou `slowloris`                |
+| porta     | Inteiro | Porta do destino TCP                         |
+| threads   | Inteiro | Quantidade de threads por host               |
+| modo      | String  | `normal` ou `slowloris`                      |
 
 ### 🔹 Exemplos
 
@@ -91,3 +91,8 @@ Pull requests e sugestões são bem-vindas!
 
 ## 📄 Licença
 MIT
+
+
+
+
+Para teste de desempenho de verdade, o ideal é usar ferramenta dedicada (k6, wrk, Gatling, JMeter) em vez de implementar tudo na mão.

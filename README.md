@@ -76,9 +76,9 @@ Esse conhecimento é essencial para projetar, implementar e manter infraestrutur
 - [Shell Script](https://github.com/GuilhermePortella/Warm-Up-Offensive-Cyber-Security/tree/main/Codigos/Part1-Scripts%20e%20PowerShell)
 - [C](https://github.com/GuilhermePortella/Mastering_C_Language)
 - [ISO 27002](https://www.normas.com.br/autorizar/visualizacao-nbr/21529/identificar/visitante)
-- []()
-- []()
-- []()
+- [CVSS](https://www.first.org/cvss/calculator/4.0)
+- [CVE](https://www.cve.org/)
+- [CWE](https://cwe.mitre.org/)
 - []()
 
 ## Pentest

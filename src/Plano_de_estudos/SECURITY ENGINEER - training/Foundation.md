@@ -131,3 +131,46 @@ Esses instrumentos ajudam a identificar onde há risco e sugerem ameaças espec�
 ## Infrastructure as Code (IaC) e Segurança
 
 ## Post-Build no CI/CD
+
+### Container Scan (Scan de Imagens Containerizadas)
+
+- Ferramentas como Snyk e Check realizam análise das imagens.
+
+### Supply Chain Security
+
+- Técnicas como SCA (Software Composition Analysis) e Container Scan.
+
+### Assinatura de Código (Code Signing)
+
+- Code Signing: assinatura de um código compilado para garantir sua integridade e autenticidade.
+- Image Signing: assinatura de imagens de containers para assegurar que não foram adulteradas.
+- Commit Signing: assinatura de commits no repositório para garantir que apenas desenvolvedores autorizados realizem modificações.
+
+## DAST e IAST - Testes de Segurança em Aplicações
+
+### DAST - Dynamic Application Security Testing
+
+#### Características
+
+- Caixa preta.
+- Dependente de protocolo HTTP.
+- Executa requisições HTTP.
+- Normalmente configurado para rodar de forma assíncrona, sem impedir o progresso do pipeline de CI/CD.
+
+#### Ferramentas Comuns
+
+- ZAP Proxy (OWASP ZAP)
+- Acunetix / Invicti
+- Checkmarx e Snyk
+
+### IAST - Interactive Application Security Testing
+
+### Comparação entre DAST e IAST
+
+| Aspecto | DAST (Dynamic Application Security Testing) | IAST (Interactive Application Security Testing) |
+| --- | --- | --- |
+| Acesso ao Código | Não possui acesso (caixa preta). | Acesso parcial ao servidor (caixa cinza). |
+| Método de Teste | Requisições HTTP dinâmicas. | Interceptação de requisições via agente. |
+| Aplicabilidade | Mais abrangente, pode testar APIs e aplicações web. | Requer interação com a aplicação. |
+| Desempenho | Lento (demora horas ou até um dia). | Mais rápido, mas depende de testes automatizados. |
+| Ferramentas | OWASP ZAP, Acunetix, Snyk, etc. | Contrast Security e outras ferramentas pagas. |

@@ -174,3 +174,51 @@ Esses instrumentos ajudam a identificar onde há risco e sugerem ameaças espec�
 | Aplicabilidade | Mais abrangente, pode testar APIs e aplicações web. | Requer interação com a aplicação. |
 | Desempenho | Lento (demora horas ou até um dia). | Mais rápido, mas depende de testes automatizados. |
 | Ferramentas | OWASP ZAP, Acunetix, Snyk, etc. | Contrast Security e outras ferramentas pagas. |
+
+## Segurança em Produção, Monitoramento e Alertas
+
+### RASP (Runtime Application Security Protection)
+
+- Funcionamento: atua embarcado na aplicação (mobile, web, etc.), funcionando como um agente que bloqueia requisições potencialmente maliciosas.
+- Diferença para IAST: o IAST testa a aplicação, enquanto o RASP é focado em proteção e bloqueio dinâmico de requisições suspeitas.
+- Exemplo: bloqueio de requisições de SQL Injection identificadas durante a execução da aplicação.
+
+### WAF (Web Application Firewall)
+
+- Funcionamento: atua na frente da aplicação, inspecionando requisições por padrões maliciosos, como IP de origem e assinaturas conhecidas de ataques.
+- Exemplo: bloqueio de requisições provenientes de IPs de listas negras (blacklists) ou requisições que contenham comandos maliciosos identificados.
+- Uso principal: produção. Não é usual utilizar WAF em ambientes de desenvolvimento ou teste.
+
+### Diferença entre RASP e WAF
+
+- RASP: atua dentro da aplicação após a requisição passar pelo WAF.
+- WAF: atua antes da requisição alcançar o servidor da aplicação, servindo como a primeira linha de defesa.
+
+## Monitoramento e Alertas
+
+### Monitoramento
+
+- Importância: monitorar o comportamento da aplicação permite detectar atividades incomuns e identificar possíveis ataques.
+- Ferramentas: logs gerados pela aplicação e integrados com ferramentas de monitoramento como Elastic Stack, Datadog, Splunk, etc.
+- Comparação com um painel de carro: da mesma forma que um motorista monitora os sinais do carro durante uma viagem, o desenvolvedor deve monitorar o software durante sua execução.
+
+#### Aspectos Monitorados
+
+- Requests por minuto, hora, dia e mês.
+- Quantidade de logins e requisições feitas por usuários.
+- Análise de endpoints para identificar padrões suspeitos.
+- Log de transações críticas e erros.
+
+### Alertas
+
+- Importância: permitem uma reação proativa em caso de anomalias.
+- Definição de alertas: baseada no comportamento considerado normal da aplicação.
+- Exemplo: se o sistema normalmente recebe 1.000 requisições por minuto, um alerta deve ser configurado para quando esse número ultrapassar um determinado limite, como 10.000 requisições por minuto.
+- Ações: receber alertas via e-mail, SMS, Telegram, etc. para permitir uma resposta rápida.
+- Automatização: possibilidade de integrar alertas com sistemas que respondem automaticamente a ameaças.
+
+### Ferramentas Recomendadas
+
+- RASP: Contrast Security, Sqreen.
+- WAF: Azure Application Firewall, AWS Application Firewall, F5, Imperva, Cloudflare.
+- Monitoramento e Logs: Elastic Stack, Datadog, Splunk, Logstash.
